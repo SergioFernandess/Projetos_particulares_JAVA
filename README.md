@@ -1,2 +1,2 @@
-# Projetos_particulares_JAVA
+# Projetos particulares em JAVA!
  Primeiros conteudos particulares na linguagem java.
